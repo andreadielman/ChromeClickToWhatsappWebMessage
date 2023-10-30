@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Interaction Center Click-To-Dial",
-  "version": "1.3",
-  "description": "Enables click-to-dial functionality for phone numbers found in pages.",
+  "name": "WhatsApp Web Click-to-Text",
+  "version": "1.0",
+  "description": "Enables click-to-WhatsApp message functionality for phone numbers found in pages.",
 
   "icons": {  "16": "resources/i3logo16rgba.png",
 			  "48": "resources/i3logo48rgba.png",
